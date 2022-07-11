@@ -1,0 +1,14 @@
+{
+    "fields":{
+        "project":
+        {
+            "id": "10002"
+        },
+        "summary": "Json Issue",
+        "description": "Test Description",
+        "issuetype":{
+            "name": "Bug"
+        }
+    }
+
+}
