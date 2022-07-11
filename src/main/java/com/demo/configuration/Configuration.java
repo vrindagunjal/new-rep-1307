@@ -9,6 +9,6 @@ public class Configuration {
 	public static String browser="chrome";
 	public static String browserPath="I:\\IMP Backup\\05_Vrinda Office data\\Cogniwise\\Training\\Drivers\\chromedriver.exe";
 	public static String email="vrindagunjal@gmail.com";
-	public static String password="eFcYr91mqCk4X4KV2EGIFEC4";
+	public static String password="ZzjCpwFG09NVjDD8Zh6S9E02";
 	public static String project="TF";
 }
