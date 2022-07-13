@@ -9,7 +9,7 @@ public class Configuration {
 	public static String browser="chrome";
 	public static String browserPath="I:\\IMP Backup\\05_Vrinda Office data\\Cogniwise\\Training\\Drivers\\chromedriver.exe";
 	public static String email="vrinda.gunjal@cogniwize.com";
-	public static String password="kYjWcs0FBLBv0MMKVbRn9A5C";
+	public static String password="mZWBKJf6FInoOBZHjfaqDCF9";
 	public static String project="TEST";
 }
 	
