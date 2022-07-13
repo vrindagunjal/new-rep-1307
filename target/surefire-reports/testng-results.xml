@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-12T10:16:01 IST" name="Suite" finished-at="2022-07-12T10:16:53 IST" duration-ms="52405">
+  <suite started-at="2022-07-13T11:26:29 IST" name="Suite" finished-at="2022-07-13T11:26:42 IST" duration-ms="13071">
     <groups>
     </groups>
-    <test started-at="2022-07-12T10:16:01 IST" name="Test" finished-at="2022-07-12T10:16:53 IST" duration-ms="52405">
+    <test started-at="2022-07-13T11:26:29 IST" name="Test" finished-at="2022-07-13T11:26:42 IST" duration-ms="13071">
       <class name="com.demo.project.HomePageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo.project.HomePageTest@3d74bf60]" started-at="2022-07-12T10:16:01 IST" name="setUp" finished-at="2022-07-12T10:16:38 IST" duration-ms="37005" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo.project.HomePageTest@3d74bf60]" started-at="2022-07-13T11:26:29 IST" name="setUp" finished-at="2022-07-13T11:26:33 IST" duration-ms="3916" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyHomepageHeaderText()[pri:0, instance:com.demo.project.HomePageTest@3d74bf60]" started-at="2022-07-12T10:16:38 IST" name="verifyHomepageHeaderText" finished-at="2022-07-12T10:16:42 IST" duration-ms="4068" status="FAIL">
+        <test-method signature="verifyHomepageHeaderText()[pri:0, instance:com.demo.project.HomePageTest@3d74bf60]" started-at="2022-07-13T11:26:33 IST" name="verifyHomepageHeaderText" finished-at="2022-07-13T11:26:40 IST" duration-ms="6264" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Wrong header text displayed in Home page expected [Orange HRM1] but found [OrangeHRM]]]>
@@ -60,7 +60,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomepageHeaderText -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demo.project.HomePageTest@3d74bf60]" started-at="2022-07-12T10:16:49 IST" name="tearDown" finished-at="2022-07-12T10:16:53 IST" duration-ms="4149" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demo.project.HomePageTest@3d74bf60]" started-at="2022-07-13T11:26:42 IST" name="tearDown" finished-at="2022-07-13T11:26:42 IST" duration-ms="370" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
